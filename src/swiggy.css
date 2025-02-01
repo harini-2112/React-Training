@@ -1,0 +1,54 @@
+.one{
+    background-color: rgb(240, 84, 27);
+    height: 1000px;
+    
+    color: white;
+}
+.h3{
+    margin-top: 50px;
+    display: inline-block;
+    margin-right: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.h1{
+    display: inline-block;
+    margin-left: 100px;
+    margin-right: 450px;
+    font-size: 30px;
+}
+.hce{
+    text-align: center;
+    font-size: 40px;
+}
+.appbtn{
+    border-style: solid;
+    border-color: white;
+    background-color: rgb(240, 84, 27);
+    color: white;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+.signbtn{
+    border-style: solid;
+    background-color: black;
+    color: white;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-left: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    border-radius: 10px;
+
+}
+.select{
+    padding-left: 100px;
+    
+}

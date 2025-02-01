@@ -1,15 +1,19 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
-import Validation from './Validation';
-import Useeffecthook from './Useeffecthook'
-import Useeffectex2 from './Useeffectex2'
-import Useeffectapi from './Useeffectapi';
-import Useeffectimg from './Useeffectimg';
+// import Validation from './Validation';
+// import Useeffecthook from './Useeffecthook'
+// import Useeffectex2 from './Useeffectex2'
+// import Useeffectapi from './Useeffectapi';
+// import Useeffectimg from './Useeffectimg';
 import Context1 from './Context1';
 import Usereducercount from './Usereducercount';
 import Usereeucercrud from './Usereeucercrud';
 import Usememoclbak from './Usememoclbak';
 import Datatable from './Datatable';
+
+import Swiggy from "./Swiggy";
+
+// import Swiggy from './Swiggy';
 function App() {
   function add(a,b)
   {
@@ -37,6 +41,7 @@ let x=8
       <Useeffecthook/>
       <Useeffectex2/>
      <Validation/> */}
+     {/* <Swiggy/> */}
 
 
     </div>
